@@ -1,0 +1,20 @@
+
+Iniciar el proyecto en node
+
+* npm init
+
+npm install express --save
+
+npm install body-parser --save
+
+npm install mongoose --save
+
+npm install nodemon --save-dev
+
+node index.js
+
+
+en el package.json poner
+	"start": "nodemon" index.js
+
+npm start
